@@ -31,4 +31,5 @@ node generate-md.js
 ![swift.png](emojis/swift.png)
 ![unicorn.png](emojis/unicorn.png)
 ![vodka.png](emojis/vodka.png)
+![vue.png](emojis/vue.png)
 ![yandex.png](emojis/yandex.png)
