@@ -23,8 +23,11 @@ npm run generate-md
 
 ---
 
+![allthe.png](emojis/allthe.png)
+![avengers.png](emojis/avengers.png)
 ![babel.png](emojis/babel.png)
 ![bacon.png](emojis/bacon.png)
+![batman.png](emojis/batman.png)
 ![borscht.png](emojis/borscht.png)
 ![burns.png](emojis/burns.png)
 ![chrome.png](emojis/chrome.png)
@@ -50,6 +53,7 @@ npm run generate-md
 ![notbad.png](emojis/notbad.png)
 ![nowindows.png](emojis/nowindows.png)
 ![okay.png](emojis/okay.png)
+![opera.png](emojis/opera.png)
 ![putin.png](emojis/putin.png)
 ![python.png](emojis/python.png)
 ![react.png](emojis/react.png)
