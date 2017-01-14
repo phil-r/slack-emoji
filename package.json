@@ -1,0 +1,13 @@
+{
+  "name": "slack-emoji",
+  "version": "1.0.0",
+  "description": "My slack emoji collection",
+  "main": "download.js",
+  "repository": "git@github.com:phil-r/slack-emoji.git",
+  "author": "Phil <philipp@rukin.me>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.4",
+    "request": "^2.79.0"
+  }
+}
