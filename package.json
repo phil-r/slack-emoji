@@ -6,6 +6,11 @@
   "repository": "git@github.com:phil-r/slack-emoji.git",
   "author": "Phil <philipp@rukin.me>",
   "license": "MIT",
+  "scripts": {
+    "start": "node download.js",
+    "download": "node download.js",
+    "generate-md": "node generate-md.js"
+  },
   "dependencies": {
     "async": "^2.1.4",
     "request": "^2.79.0"

@@ -1,10 +1,24 @@
 # slack-emoji
-:suspect: My slack emoji collection
+:suspect: My slack emoji collection and helper scripts
 
-To generate preview for readme run:
+First, install dependencies:
+```
+yarn
+```
+or
+```
+npm i
+```
+
+To download emojis from your slack team run:
+> don't forget to create config.json, see [config.example.json](config.example.json)
 
 ```
-node generate-md.js
+npm start
+```
+To generate preview for readme run:
+```
+npm run generate-md
 ```
 
 ---
