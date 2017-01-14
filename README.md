@@ -1,5 +1,5 @@
 # slack-emoji
-:suspect: My slack emoji collection and helper scripts
+:suspect: My slack emoji collection and download script
 
 First, install dependencies:
 ```
