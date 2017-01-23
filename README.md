@@ -23,6 +23,7 @@ npm run generate-md
 
 ---
 
+![404.png](emojis/404.png)
 ![allthe.png](emojis/allthe.png)
 ![avengers.png](emojis/avengers.png)
 ![babel.png](emojis/babel.png)
@@ -41,6 +42,7 @@ npm run generate-md
 ![fry.jpg](emojis/fry.jpg)
 ![gojira.png](emojis/gojira.png)
 ![gulp.png](emojis/gulp.png)
+![happy.png](emojis/happy.png)
 ![heathstone.png](emojis/heathstone.png)
 ![jetpack_man.png](emojis/jetpack_man.png)
 ![js.png](emojis/js.png)
