@@ -23,52 +23,78 @@ npm run generate-md
 
 ---
 
-![404.png](emojis/404.png)
-![allthe.png](emojis/allthe.png)
-![avengers.png](emojis/avengers.png)
-![babel.png](emojis/babel.png)
-![bacon.png](emojis/bacon.png)
-![batman.png](emojis/batman.png)
-![borscht.png](emojis/borscht.png)
-![burns.png](emojis/burns.png)
-![chrome.png](emojis/chrome.png)
-![dora.png](emojis/dora.png)
-![dribbble.png](emojis/dribbble.png)
-![earl_grey.png](emojis/earl_grey.png)
-![erdogan.gif](emojis/erdogan.gif)
-![escobar.jpg](emojis/escobar.jpg)
-![firefox.png](emojis/firefox.png)
-![flash.png](emojis/flash.png)
-![fry.jpg](emojis/fry.jpg)
-![gojira.png](emojis/gojira.png)
-![gulp.png](emojis/gulp.png)
-![happy.png](emojis/happy.png)
-![heathstone.png](emojis/heathstone.png)
-![jetpack_man.png](emojis/jetpack_man.png)
-![js.png](emojis/js.png)
-![kitten.png](emojis/kitten.png)
-![luigi.png](emojis/luigi.png)
-![mario.gif](emojis/mario.gif)
-![matryoshka.png](emojis/matryoshka.png)
-![merkel.png](emojis/merkel.png)
-![nodejs.png](emojis/nodejs.png)
-![notbad.png](emojis/notbad.png)
-![nowindows.png](emojis/nowindows.png)
-![okay.png](emojis/okay.png)
-![opera.png](emojis/opera.png)
-![putin.png](emojis/putin.png)
-![python.png](emojis/python.png)
-![react.png](emojis/react.png)
-![rosa.png](emojis/rosa.png)
-![sexualharrasmentpanda.png](emojis/sexualharrasmentpanda.png)
-![slowpoke.png](emojis/slowpoke.png)
-![superman.png](emojis/superman.png)
-![swift.png](emojis/swift.png)
-![trump.jpg](emojis/trump.jpg)
-![unicorn.png](emojis/unicorn.png)
-![vodka.png](emojis/vodka.png)
-![vue.png](emojis/vue.png)
-![wat.jpg](emojis/wat.jpg)
-![woohoo.png](emojis/woohoo.png)
-![yandex.png](emojis/yandex.png)
-![yuno.png](emojis/yuno.png)
+## Games
+
+![heathstone.png](emojis/Games/heathstone.png)
+![luigi.png](emojis/Games/luigi.png)
+![mario.gif](emojis/Games/mario.gif)
+
+## Browsers
+
+![chrome.png](emojis/Browsers/chrome.png)
+![firefox.png](emojis/Browsers/firefox.png)
+![opera.png](emojis/Browsers/opera.png)
+![yandex.png](emojis/Browsers/yandex.png)
+
+## Politics
+
+![erdogan.gif](emojis/Politics/erdogan.gif)
+![merkel.png](emojis/Politics/merkel.png)
+![trump.jpg](emojis/Politics/trump.jpg)
+
+## Memes
+
+![allthe.png](emojis/Memes/allthe.png)
+![fry.jpg](emojis/Memes/fry.jpg)
+![happy.png](emojis/Memes/happy.png)
+![notbad.png](emojis/Memes/notbad.png)
+![okay.png](emojis/Memes/okay.png)
+![sexualharrasmentpanda.png](emojis/Memes/sexualharrasmentpanda.png)
+![wat.jpg](emojis/Memes/wat.jpg)
+![yuno.png](emojis/Memes/yuno.png)
+
+## Random
+
+![404.png](emojis/Random/404.png)
+![burns.png](emojis/Random/burns.png)
+![dora.png](emojis/Random/dora.png)
+![dribbble.png](emojis/Random/dribbble.png)
+![earl_grey.png](emojis/Random/earl_grey.png)
+![kitten.png](emojis/Random/kitten.png)
+![slowpoke.png](emojis/Random/slowpoke.png)
+![unicorn.png](emojis/Random/unicorn.png)
+![woohoo.png](emojis/Random/woohoo.png)
+
+## Superheroes
+
+![avengers.png](emojis/Superheroes/avengers.png)
+![batman.png](emojis/Superheroes/batman.png)
+![flash.png](emojis/Superheroes/flash.png)
+![superman.png](emojis/Superheroes/superman.png)
+
+## Russia
+
+![borscht.png](emojis/Russia/borscht.png)
+![escobar.jpg](emojis/Russia/escobar.jpg)
+![matryoshka.png](emojis/Russia/matryoshka.png)
+![putin.png](emojis/Russia/putin.png)
+![vodka.png](emojis/Russia/vodka.png)
+
+## Programming
+
+![babel.png](emojis/Programming/babel.png)
+![bacon.png](emojis/Programming/bacon.png)
+![gulp.png](emojis/Programming/gulp.png)
+![js.png](emojis/Programming/js.png)
+![nodejs.png](emojis/Programming/nodejs.png)
+![nowindows.png](emojis/Programming/nowindows.png)
+![python.png](emojis/Programming/python.png)
+![react.png](emojis/Programming/react.png)
+![swift.png](emojis/Programming/swift.png)
+![vue.png](emojis/Programming/vue.png)
+
+## ZenMate
+
+![gojira.png](emojis/ZenMate/gojira.png)
+![jetpack_man.png](emojis/ZenMate/jetpack_man.png)
+![rosa.png](emojis/ZenMate/rosa.png)

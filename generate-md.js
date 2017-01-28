@@ -1,9 +1,25 @@
-const folder = 'emojis/';
+const fs = require('fs');
 
-console.log('Copy the text below to readme:\n\n---\n')
+const BLOCKED_FILENAMES = ['.DS_Store'];
+const FOLDER = 'emojis/';
 
-require('fs').readdir(folder, (err, files) => {
-  files.forEach(file => {
-    console.log(`![${file}](${folder+file})`);
+
+function notBlocked(filename){
+  return !BLOCKED_FILENAMES.includes(filename);
+}
+
+console.log('Copy the text below to readme:\n\n---');
+
+fs.readdir(FOLDER, (err, categories) => {
+  categories.forEach(category => {
+    fs.readdir(`${FOLDER}${category}`, (err, files) => {
+      if (!files) {
+        return;
+      }
+      console.log(`\n## ${category}\n`);
+      files.filter(notBlocked).forEach(file => {
+        console.log(`![${file}](${FOLDER + category}/${file})`);
+      });
+    });
   });
 });
