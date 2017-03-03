@@ -23,25 +23,6 @@ npm run generate-md
 
 ---
 
-## Games
-
-![heathstone.png](emojis/Games/heathstone.png)
-![luigi.png](emojis/Games/luigi.png)
-![mario.gif](emojis/Games/mario.gif)
-
-## Browsers
-
-![chrome.png](emojis/Browsers/chrome.png)
-![firefox.png](emojis/Browsers/firefox.png)
-![opera.png](emojis/Browsers/opera.png)
-![yandex.png](emojis/Browsers/yandex.png)
-
-## Politics
-
-![erdogan.gif](emojis/Politics/erdogan.gif)
-![merkel.png](emojis/Politics/merkel.png)
-![trump.jpg](emojis/Politics/trump.jpg)
-
 ## Memes
 
 ![allthe.png](emojis/Memes/allthe.png)
@@ -53,32 +34,24 @@ npm run generate-md
 ![wat.jpg](emojis/Memes/wat.jpg)
 ![yuno.png](emojis/Memes/yuno.png)
 
-## Random
+## Browsers
 
-![404.png](emojis/Random/404.png)
-![burns.png](emojis/Random/burns.png)
-![dora.png](emojis/Random/dora.png)
-![dribbble.png](emojis/Random/dribbble.png)
-![earl_grey.png](emojis/Random/earl_grey.png)
-![kitten.png](emojis/Random/kitten.png)
-![slowpoke.png](emojis/Random/slowpoke.png)
-![unicorn.png](emojis/Random/unicorn.png)
-![woohoo.png](emojis/Random/woohoo.png)
+![chrome.png](emojis/Browsers/chrome.png)
+![firefox.png](emojis/Browsers/firefox.png)
+![opera.png](emojis/Browsers/opera.png)
+![yandex.png](emojis/Browsers/yandex.png)
 
-## Superheroes
+## Games
 
-![avengers.png](emojis/Superheroes/avengers.png)
-![batman.png](emojis/Superheroes/batman.png)
-![flash.png](emojis/Superheroes/flash.png)
-![superman.png](emojis/Superheroes/superman.png)
+![heathstone.png](emojis/Games/heathstone.png)
+![luigi.png](emojis/Games/luigi.png)
+![mario.gif](emojis/Games/mario.gif)
 
-## Russia
+## Politics
 
-![borscht.png](emojis/Russia/borscht.png)
-![escobar.jpg](emojis/Russia/escobar.jpg)
-![matryoshka.png](emojis/Russia/matryoshka.png)
-![putin.png](emojis/Russia/putin.png)
-![vodka.png](emojis/Russia/vodka.png)
+![erdogan.gif](emojis/Politics/erdogan.gif)
+![merkel.png](emojis/Politics/merkel.png)
+![trump.jpg](emojis/Politics/trump.jpg)
 
 ## Programming
 
@@ -92,6 +65,34 @@ npm run generate-md
 ![react.png](emojis/Programming/react.png)
 ![swift.png](emojis/Programming/swift.png)
 ![vue.png](emojis/Programming/vue.png)
+
+## Random
+
+![404.png](emojis/Random/404.png)
+![burns.png](emojis/Random/burns.png)
+![dora.png](emojis/Random/dora.png)
+![dribbble.png](emojis/Random/dribbble.png)
+![earl_grey.png](emojis/Random/earl_grey.png)
+![kitten.png](emojis/Random/kitten.png)
+![parental_advisory.png](emojis/Random/parental_advisory.png)
+![slowpoke.png](emojis/Random/slowpoke.png)
+![unicorn.png](emojis/Random/unicorn.png)
+![woohoo.png](emojis/Random/woohoo.png)
+
+## Russia
+
+![borscht.png](emojis/Russia/borscht.png)
+![escobar.jpg](emojis/Russia/escobar.jpg)
+![matryoshka.png](emojis/Russia/matryoshka.png)
+![putin.png](emojis/Russia/putin.png)
+![vodka.png](emojis/Russia/vodka.png)
+
+## Superheroes
+
+![avengers.png](emojis/Superheroes/avengers.png)
+![batman.png](emojis/Superheroes/batman.png)
+![flash.png](emojis/Superheroes/flash.png)
+![superman.png](emojis/Superheroes/superman.png)
 
 ## ZenMate
 
