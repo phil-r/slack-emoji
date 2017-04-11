@@ -23,6 +23,21 @@ npm run generate-md
 
 ---
 
+---
+
+## Games
+
+![heathstone.png](emojis/Games/heathstone.png)
+![luigi.png](emojis/Games/luigi.png)
+![mario.gif](emojis/Games/mario.gif)
+
+## Browsers
+
+![chrome.png](emojis/Browsers/chrome.png)
+![firefox.png](emojis/Browsers/firefox.png)
+![opera.png](emojis/Browsers/opera.png)
+![yandex.png](emojis/Browsers/yandex.png)
+
 ## Memes
 
 ![allthe.png](emojis/Memes/allthe.png)
@@ -33,19 +48,6 @@ npm run generate-md
 ![sexualharrasmentpanda.png](emojis/Memes/sexualharrasmentpanda.png)
 ![wat.jpg](emojis/Memes/wat.jpg)
 ![yuno.png](emojis/Memes/yuno.png)
-
-## Browsers
-
-![chrome.png](emojis/Browsers/chrome.png)
-![firefox.png](emojis/Browsers/firefox.png)
-![opera.png](emojis/Browsers/opera.png)
-![yandex.png](emojis/Browsers/yandex.png)
-
-## Games
-
-![heathstone.png](emojis/Games/heathstone.png)
-![luigi.png](emojis/Games/luigi.png)
-![mario.gif](emojis/Games/mario.gif)
 
 ## Politics
 
@@ -77,6 +79,7 @@ npm run generate-md
 ![parental_advisory.png](emojis/Random/parental_advisory.png)
 ![slowpoke.png](emojis/Random/slowpoke.png)
 ![unicorn.png](emojis/Random/unicorn.png)
+![vomit.gif](emojis/Random/vomit.gif)
 ![woohoo.png](emojis/Random/woohoo.png)
 
 ## Russia
@@ -87,15 +90,15 @@ npm run generate-md
 ![putin.png](emojis/Russia/putin.png)
 ![vodka.png](emojis/Russia/vodka.png)
 
+## ZenMate
+
+![gojira.png](emojis/ZenMate/gojira.png)
+![jetpack_man.png](emojis/ZenMate/jetpack_man.png)
+![rosa.png](emojis/ZenMate/rosa.png)
+
 ## Superheroes
 
 ![avengers.png](emojis/Superheroes/avengers.png)
 ![batman.png](emojis/Superheroes/batman.png)
 ![flash.png](emojis/Superheroes/flash.png)
 ![superman.png](emojis/Superheroes/superman.png)
-
-## ZenMate
-
-![gojira.png](emojis/ZenMate/gojira.png)
-![jetpack_man.png](emojis/ZenMate/jetpack_man.png)
-![rosa.png](emojis/ZenMate/rosa.png)
