@@ -23,23 +23,12 @@ npm run generate-md
 
 ---
 
-## Logos
-
-![dribbble.png](emojis/Logos/dribbble.png)
-![nasa.png](emojis/Logos/nasa.png)
-
 ## Browsers
 
 ![chrome.png](emojis/Browsers/chrome.png)
 ![firefox.png](emojis/Browsers/firefox.png)
 ![opera.png](emojis/Browsers/opera.png)
 ![yandex.png](emojis/Browsers/yandex.png)
-
-## Games
-
-![heathstone.png](emojis/Games/heathstone.png)
-![luigi.png](emojis/Games/luigi.png)
-![mario.gif](emojis/Games/mario.gif)
 
 ## Memes
 
@@ -52,6 +41,17 @@ npm run generate-md
 ![wat.jpg](emojis/Memes/wat.jpg)
 ![yuno.png](emojis/Memes/yuno.png)
 
+## Logos
+
+![dribbble.png](emojis/Logos/dribbble.png)
+![nasa.png](emojis/Logos/nasa.png)
+
+## Games
+
+![heathstone.png](emojis/Games/heathstone.png)
+![luigi.png](emojis/Games/luigi.png)
+![mario.gif](emojis/Games/mario.gif)
+
 ## Politics
 
 ![erdogan.gif](emojis/Politics/erdogan.gif)
@@ -62,6 +62,7 @@ npm run generate-md
 
 ![babel.png](emojis/Programming/babel.png)
 ![bacon.png](emojis/Programming/bacon.png)
+![gopher.png](emojis/Programming/gopher.png)
 ![gulp.png](emojis/Programming/gulp.png)
 ![js.png](emojis/Programming/js.png)
 ![nodejs.png](emojis/Programming/nodejs.png)
