@@ -30,6 +30,18 @@ npm run generate-md
 ![opera.png](emojis/Browsers/opera.png)
 ![yandex.png](emojis/Browsers/yandex.png)
 
+## Games
+
+![heathstone.png](emojis/Games/heathstone.png)
+![luigi.png](emojis/Games/luigi.png)
+![mario.gif](emojis/Games/mario.gif)
+
+## Logos
+
+![dribbble.png](emojis/Logos/dribbble.png)
+![nasa.png](emojis/Logos/nasa.png)
+![united.png](emojis/Logos/united.png)
+
 ## Memes
 
 ![allthe.png](emojis/Memes/allthe.png)
@@ -40,17 +52,6 @@ npm run generate-md
 ![sexualharrasmentpanda.png](emojis/Memes/sexualharrasmentpanda.png)
 ![wat.jpg](emojis/Memes/wat.jpg)
 ![yuno.png](emojis/Memes/yuno.png)
-
-## Logos
-
-![dribbble.png](emojis/Logos/dribbble.png)
-![nasa.png](emojis/Logos/nasa.png)
-
-## Games
-
-![heathstone.png](emojis/Games/heathstone.png)
-![luigi.png](emojis/Games/luigi.png)
-![mario.gif](emojis/Games/mario.gif)
 
 ## Politics
 
