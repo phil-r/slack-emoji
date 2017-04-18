@@ -11,13 +11,13 @@ function notBlocked(filename){
 console.log('Copy the text below to readme:\n\n---');
 
 fs.readdir(FOLDER, (err, categories) => {
-  categories.forEach(category => {
+  categories.sort().forEach(category => {
     fs.readdir(`${FOLDER}${category}`, (err, files) => {
       if (!files) {
         return;
       }
       console.log(`\n## ${category}\n`);
-      files.filter(notBlocked).forEach(file => {
+      files.filter(notBlocked).sort().forEach(file => {
         console.log(`![${file}](${FOLDER + category}/${file})`);
       });
     });
