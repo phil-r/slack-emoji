@@ -72,6 +72,7 @@ npm run generate-md
 ![react.png](emojis/Programming/react.png)
 ![swift.png](emojis/Programming/swift.png)
 ![vue.png](emojis/Programming/vue.png)
+![yarn.png](emojis/Programming/yarn.png)
 
 ## Random
 
