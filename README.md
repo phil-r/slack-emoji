@@ -38,8 +38,10 @@ npm run generate-md
 
 ## Logos
 
+![amazon.png](emojis/Logos/amazon.png)
 ![dribbble.png](emojis/Logos/dribbble.png)
 ![nasa.png](emojis/Logos/nasa.png)
+![tinder.png](emojis/Logos/tinder.png)
 ![united.png](emojis/Logos/united.png)
 
 ## Memes
@@ -47,11 +49,17 @@ npm run generate-md
 ![allthe.png](emojis/Memes/allthe.png)
 ![fry.jpg](emojis/Memes/fry.jpg)
 ![happy.png](emojis/Memes/happy.png)
+![magic.png](emojis/Memes/magic.png)
 ![notbad.png](emojis/Memes/notbad.png)
 ![okay.png](emojis/Memes/okay.png)
 ![sexualharrasmentpanda.png](emojis/Memes/sexualharrasmentpanda.png)
 ![wat.jpg](emojis/Memes/wat.jpg)
 ![yuno.png](emojis/Memes/yuno.png)
+
+## People
+
+![elon.png](emojis/People/elon.png)
+![jack_nicholson.png](emojis/People/jack_nicholson.png)
 
 ## Politics
 
