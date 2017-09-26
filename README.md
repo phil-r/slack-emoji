@@ -98,6 +98,7 @@ npm run generate-md
 ![earl_grey.png](emojis/Random/earl_grey.png)
 ![kitten.png](emojis/Random/kitten.png)
 ![parental_advisory.png](emojis/Random/parental_advisory.png)
+![saw.png](emojis/Random/saw.png)
 ![unicorn.png](emojis/Random/unicorn.png)
 ![vomit.gif](emojis/Random/vomit.gif)
 ![woohoo.png](emojis/Random/woohoo.png)
