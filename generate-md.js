@@ -11,7 +11,7 @@ function notBlocked(filename){
 console.log('Copy the text below to readme:\n\n---');
 
 fs.readdir(FOLDER, (err, categories) => {
-  categories.sort().forEach(category => {
+  categories.filter(notBlocked).sort().forEach(category => {
     const files = fs.readdirSync(`${FOLDER}${category}`);
     console.log(`\n## ${category}\n`);
     files.filter(notBlocked).sort().forEach(file => {

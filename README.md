@@ -30,6 +30,13 @@ npm run generate-md
 ![opera.png](emojis/Browsers/opera.png)
 ![yandex.png](emojis/Browsers/yandex.png)
 
+## Cartoons
+
+![beavis.png](emojis/Cartoons/beavis.png)
+![burns.png](emojis/Cartoons/burns.png)
+![butthead.png](emojis/Cartoons/butthead.png)
+![dora.png](emojis/Cartoons/dora.png)
+
 ## Games
 
 ![heathstone.png](emojis/Games/heathstone.png)
@@ -53,13 +60,16 @@ npm run generate-md
 ![notbad.png](emojis/Memes/notbad.png)
 ![okay.png](emojis/Memes/okay.png)
 ![sexualharrasmentpanda.png](emojis/Memes/sexualharrasmentpanda.png)
+![slowpoke.png](emojis/Memes/slowpoke.png)
 ![wat.jpg](emojis/Memes/wat.jpg)
 ![yuno.png](emojis/Memes/yuno.png)
 
 ## People
 
 ![elon.png](emojis/People/elon.png)
+![ive.png](emojis/People/ive.png)
 ![jack_nicholson.png](emojis/People/jack_nicholson.png)
+![steve.png](emojis/People/steve.png)
 
 ## Politics
 
@@ -85,12 +95,9 @@ npm run generate-md
 ## Random
 
 ![404.png](emojis/Random/404.png)
-![burns.png](emojis/Random/burns.png)
-![dora.png](emojis/Random/dora.png)
 ![earl_grey.png](emojis/Random/earl_grey.png)
 ![kitten.png](emojis/Random/kitten.png)
 ![parental_advisory.png](emojis/Random/parental_advisory.png)
-![slowpoke.png](emojis/Random/slowpoke.png)
 ![unicorn.png](emojis/Random/unicorn.png)
 ![vomit.gif](emojis/Random/vomit.gif)
 ![woohoo.png](emojis/Random/woohoo.png)
