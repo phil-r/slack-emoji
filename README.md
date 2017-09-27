@@ -86,6 +86,7 @@ npm run generate-md
 ![js.png](emojis/Programming/js.png)
 ![nodejs.png](emojis/Programming/nodejs.png)
 ![nowindows.png](emojis/Programming/nowindows.png)
+![pug.png](emojis/Programming/pug.png)
 ![python.png](emojis/Programming/python.png)
 ![react.png](emojis/Programming/react.png)
 ![swift.png](emojis/Programming/swift.png)
