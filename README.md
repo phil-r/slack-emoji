@@ -35,6 +35,8 @@ npm run generate-md
 ![beavis.png](emojis/Cartoons/beavis.png)
 ![burns.png](emojis/Cartoons/burns.png)
 ![butthead.png](emojis/Cartoons/butthead.png)
+![chip.gif](emojis/Cartoons/chip.gif)
+![dale.gif](emojis/Cartoons/dale.gif)
 ![dora.png](emojis/Cartoons/dora.png)
 
 ## Games
