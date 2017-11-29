@@ -104,6 +104,7 @@ npm run generate-md
 ![saw.png](emojis/Random/saw.png)
 ![unicorn.png](emojis/Random/unicorn.png)
 ![vomit.gif](emojis/Random/vomit.gif)
+![wall.gif](emojis/Random/wall.gif)
 ![woohoo.png](emojis/Random/woohoo.png)
 
 ## Russia
