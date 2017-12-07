@@ -50,6 +50,7 @@ npm run generate-md
 ![amazon.png](emojis/Logos/amazon.png)
 ![dribbble.png](emojis/Logos/dribbble.png)
 ![nasa.png](emojis/Logos/nasa.png)
+![netflix.png](emojis/Logos/netflix.png)
 ![tinder.png](emojis/Logos/tinder.png)
 ![united.png](emojis/Logos/united.png)
 
