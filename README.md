@@ -79,6 +79,7 @@ npm run generate-md
 
 ![erdogan.gif](emojis/Politics/erdogan.gif)
 ![merkel.png](emojis/Politics/merkel.png)
+![putin.png](emojis/Politics/putin.png)
 ![trump.jpg](emojis/Politics/trump.jpg)
 
 ## Programming
@@ -114,7 +115,7 @@ npm run generate-md
 ![borscht.png](emojis/Russia/borscht.png)
 ![escobar.jpg](emojis/Russia/escobar.jpg)
 ![matryoshka.png](emojis/Russia/matryoshka.png)
-![putin.png](emojis/Russia/putin.png)
+![ussr.png](emojis/Russia/ussr.png)
 ![vodka.png](emojis/Russia/vodka.png)
 
 ## Superheroes
