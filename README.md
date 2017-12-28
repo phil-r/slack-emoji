@@ -86,6 +86,7 @@ npm run generate-md
 
 ![babel.png](emojis/Programming/babel.png)
 ![bacon.png](emojis/Programming/bacon.png)
+![docker.png](emojis/Programming/docker.png)
 ![gopher.png](emojis/Programming/gopher.png)
 ![gulp.png](emojis/Programming/gulp.png)
 ![js.png](emojis/Programming/js.png)
