@@ -1,23 +1,21 @@
+
 # slack-emoji
 :suspect: My slack emoji collection and download script
 
 First, install dependencies:
-```
-yarn
-```
-or
-```
+```sh
 npm i
 ```
 
 To download emojis from your slack team run:
 > don't forget to create config.json, see [config.example.json](config.example.json)
 
-```
+```sh
 npm start
 ```
+
 To generate preview for readme run:
-```
+```sh
 npm run generate-md
 ```
 
