@@ -46,10 +46,13 @@ npm run generate-md
 ## Logos
 
 ![amazon.png](emojis/Logos/amazon.png)
+![dominos.png](emojis/Logos/dominos.png)
 ![dribbble.png](emojis/Logos/dribbble.png)
+![jira.png](emojis/Logos/jira.png)
 ![nasa.png](emojis/Logos/nasa.png)
 ![netflix.png](emojis/Logos/netflix.png)
 ![tinder.png](emojis/Logos/tinder.png)
+![tor.png](emojis/Logos/tor.png)
 ![united.png](emojis/Logos/united.png)
 
 ## Memes
@@ -94,6 +97,7 @@ npm run generate-md
 ![pug.png](emojis/Programming/pug.png)
 ![python.png](emojis/Programming/python.png)
 ![react.png](emojis/Programming/react.png)
+![ruby.png](emojis/Programming/ruby.png)
 ![swift.png](emojis/Programming/swift.png)
 ![vue.png](emojis/Programming/vue.png)
 ![yarn.png](emojis/Programming/yarn.png)
