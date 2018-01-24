@@ -90,6 +90,7 @@ npm run generate-md
 ![gopher.png](emojis/Programming/gopher.png)
 ![gulp.png](emojis/Programming/gulp.png)
 ![js.png](emojis/Programming/js.png)
+![nginx.png](emojis/Programming/nginx.png)
 ![nodejs.png](emojis/Programming/nodejs.png)
 ![nowindows.png](emojis/Programming/nowindows.png)
 ![pug.png](emojis/Programming/pug.png)
