@@ -69,11 +69,16 @@ npm run generate-md
 ![watching.png](emojis/Memes/watching.png)
 ![yuno.png](emojis/Memes/yuno.png)
 
+## Movies
+
+![elliot.png](emojis/Movies/elliot.png)
+![jack_nicholson.png](emojis/Movies/jack_nicholson.png)
+![mrrobot.png](emojis/Movies/mrrobot.png)
+
 ## People
 
 ![elon.png](emojis/People/elon.png)
 ![ive.png](emojis/People/ive.png)
-![jack_nicholson.png](emojis/People/jack_nicholson.png)
 ![steve.png](emojis/People/steve.png)
 
 ## Politics
