@@ -58,6 +58,7 @@ npm run generate-md
 ## Memes
 
 ![allthe.png](emojis/Memes/allthe.png)
+![bepis.png](emojis/Memes/bepis.png)
 ![fry.jpg](emojis/Memes/fry.jpg)
 ![happy.png](emojis/Memes/happy.png)
 ![magic.png](emojis/Memes/magic.png)
