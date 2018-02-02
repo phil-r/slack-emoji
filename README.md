@@ -64,6 +64,7 @@ npm run generate-md
 ![magic.png](emojis/Memes/magic.png)
 ![notbad.png](emojis/Memes/notbad.png)
 ![okay.png](emojis/Memes/okay.png)
+![philosoraptor.png](emojis/Memes/philosoraptor.png)
 ![sexualharrasmentpanda.png](emojis/Memes/sexualharrasmentpanda.png)
 ![slowpoke.png](emojis/Memes/slowpoke.png)
 ![think_bread.png](emojis/Memes/think_bread.png)
