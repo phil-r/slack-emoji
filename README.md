@@ -75,11 +75,15 @@ npm run generate-md
 ## Movies
 
 ![elliot.png](emojis/Movies/elliot.png)
+![harry.png](emojis/Movies/harry.png)
+![hermione.png](emojis/Movies/hermione.png)
 ![jack_nicholson.png](emojis/Movies/jack_nicholson.png)
 ![mrrobot.png](emojis/Movies/mrrobot.png)
 
 ## People
 
+![ballmer.png](emojis/People/ballmer.png)
+![bill.png](emojis/People/bill.png)
 ![elon.png](emojis/People/elon.png)
 ![ive.png](emojis/People/ive.png)
 ![steve.png](emojis/People/steve.png)
