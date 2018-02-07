@@ -78,6 +78,7 @@ npm run generate-md
 ![harry.png](emojis/Movies/harry.png)
 ![hermione.png](emojis/Movies/hermione.png)
 ![jack_nicholson.png](emojis/Movies/jack_nicholson.png)
+![jon_snow.png](emojis/Movies/jon_snow.png)
 ![mrrobot.png](emojis/Movies/mrrobot.png)
 
 ## People
