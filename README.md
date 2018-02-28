@@ -126,6 +126,7 @@ npm run generate-md
 
 ![404.png](emojis/Random/404.png)
 ![earl_grey.png](emojis/Random/earl_grey.png)
+![incognito.png](emojis/Random/incognito.png)
 ![kitten.png](emojis/Random/kitten.png)
 ![parental_advisory.png](emojis/Random/parental_advisory.png)
 ![saw.png](emojis/Random/saw.png)
