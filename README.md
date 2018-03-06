@@ -94,6 +94,7 @@ npm run generate-md
 ![bill.png](emojis/People/bill.png)
 ![elon.png](emojis/People/elon.png)
 ![ive.png](emojis/People/ive.png)
+![snoop.png](emojis/People/snoop.png)
 ![steve.png](emojis/People/steve.png)
 
 ## Politics
