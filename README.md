@@ -51,8 +51,10 @@ npm run generate-md
 ![jira.png](emojis/Logos/jira.png)
 ![nasa.png](emojis/Logos/nasa.png)
 ![netflix.png](emojis/Logos/netflix.png)
+![openvpn.png](emojis/Logos/openvpn.png)
 ![tinder.png](emojis/Logos/tinder.png)
 ![tor.png](emojis/Logos/tor.png)
+![tunnelbear.png](emojis/Logos/tunnelbear.png)
 ![united.png](emojis/Logos/united.png)
 
 ## Memes
