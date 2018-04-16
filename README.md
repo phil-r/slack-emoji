@@ -82,6 +82,15 @@ npm run generate-md
 ![watching.png](emojis/Memes/watching.png)
 ![yuno.png](emojis/Memes/yuno.png)
 
+## Messengers
+
+![icq.png](emojis/Messengers/icq.png)
+![messenger.png](emojis/Messengers/messenger.png)
+![signal.png](emojis/Messengers/signal.png)
+![telegram.png](emojis/Messengers/telegram.png)
+![wechat.png](emojis/Messengers/wechat.png)
+![whatsapp.png](emojis/Messengers/whatsapp.png)
+
 ## Movies
 
 ![elliot.png](emojis/Movies/elliot.png)
