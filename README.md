@@ -71,6 +71,7 @@ npm run generate-md
 ![sexualharrasmentpanda.png](emojis/Memes/sexualharrasmentpanda.png)
 ![slowpoke.png](emojis/Memes/slowpoke.png)
 ![think_bread.png](emojis/Memes/think_bread.png)
+![think_burger.png](emojis/Memes/think_burger.png)
 ![think_clap.png](emojis/Memes/think_clap.png)
 ![think_eggplant.png](emojis/Memes/think_eggplant.png)
 ![think_fish.png](emojis/Memes/think_fish.png)
