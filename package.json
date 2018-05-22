@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "async": "^2.6.1",
-    "request": "^2.86.0"
+    "request": "^2.87.0"
   }
 }
