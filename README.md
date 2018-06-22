@@ -62,6 +62,7 @@ npm run generate-md
 
 ![allthe.png](emojis/Memes/allthe.png)
 ![bepis.png](emojis/Memes/bepis.png)
+![facing_think.png](emojis/Memes/facing_think.png)
 ![fry.jpg](emojis/Memes/fry.jpg)
 ![happy.png](emojis/Memes/happy.png)
 ![magic.png](emojis/Memes/magic.png)
@@ -78,6 +79,7 @@ npm run generate-md
 ![think_ie.png](emojis/Memes/think_ie.png)
 ![think_lemon.png](emojis/Memes/think_lemon.png)
 ![think_okay.png](emojis/Memes/think_okay.png)
+![think_party.png](emojis/Memes/think_party.png)
 ![think_potato.png](emojis/Memes/think_potato.png)
 ![wat.jpg](emojis/Memes/wat.jpg)
 ![watching.png](emojis/Memes/watching.png)
@@ -140,11 +142,13 @@ npm run generate-md
 ## Random
 
 ![404.png](emojis/Random/404.png)
+![censored_banana.png](emojis/Random/censored_banana.png)
 ![earl_grey.png](emojis/Random/earl_grey.png)
 ![incognito.png](emojis/Random/incognito.png)
 ![kitten.png](emojis/Random/kitten.png)
 ![parental_advisory.png](emojis/Random/parental_advisory.png)
 ![saw.png](emojis/Random/saw.png)
+![spam.png](emojis/Random/spam.png)
 ![unicorn.png](emojis/Random/unicorn.png)
 ![vomit.gif](emojis/Random/vomit.gif)
 ![wall.gif](emojis/Random/wall.gif)
