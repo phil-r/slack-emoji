@@ -21,6 +21,12 @@ npm run generate-md
 
 ---
 
+## Blobs
+
+![blobcheer.png](emojis/Blobs/blobcheer.png)
+![blobrainbow.png](emojis/Blobs/blobrainbow.png)
+![blobrainbowdance.png](emojis/Blobs/blobrainbowdance.png)
+
 ## Browsers
 
 ![chrome.png](emojis/Browsers/chrome.png)
@@ -56,21 +62,26 @@ npm run generate-md
 ![tinder.png](emojis/Logos/tinder.png)
 ![tor.png](emojis/Logos/tor.png)
 ![tunnelbear.png](emojis/Logos/tunnelbear.png)
+![twitch.png](emojis/Logos/twitch.png)
 ![united.png](emojis/Logos/united.png)
 
 ## Memes
 
 ![allthe.png](emojis/Memes/allthe.png)
+![amazing.png](emojis/Memes/amazing.png)
+![awesome.png](emojis/Memes/awesome.png)
 ![bepis.png](emojis/Memes/bepis.png)
 ![facing_think.png](emojis/Memes/facing_think.png)
 ![fry.jpg](emojis/Memes/fry.jpg)
 ![happy.png](emojis/Memes/happy.png)
 ![magic.png](emojis/Memes/magic.png)
 ![notbad.png](emojis/Memes/notbad.png)
+![oh_no.png](emojis/Memes/oh_no.png)
 ![okay.png](emojis/Memes/okay.png)
 ![philosoraptor.png](emojis/Memes/philosoraptor.png)
 ![sexualharrasmentpanda.png](emojis/Memes/sexualharrasmentpanda.png)
 ![slowpoke.png](emojis/Memes/slowpoke.png)
+![thaenkin.png](emojis/Memes/thaenkin.png)
 ![think_bread.png](emojis/Memes/think_bread.png)
 ![think_burger.png](emojis/Memes/think_burger.png)
 ![think_clap.png](emojis/Memes/think_clap.png)
@@ -78,9 +89,12 @@ npm run generate-md
 ![think_fish.png](emojis/Memes/think_fish.png)
 ![think_ie.png](emojis/Memes/think_ie.png)
 ![think_lemon.png](emojis/Memes/think_lemon.png)
+![think_nyan.png](emojis/Memes/think_nyan.png)
 ![think_okay.png](emojis/Memes/think_okay.png)
 ![think_party.png](emojis/Memes/think_party.png)
 ![think_potato.png](emojis/Memes/think_potato.png)
+![thisisfine.png](emojis/Memes/thisisfine.png)
+![thonking.png](emojis/Memes/thonking.png)
 ![wat.jpg](emojis/Memes/wat.jpg)
 ![watching.png](emojis/Memes/watching.png)
 ![yuno.png](emojis/Memes/yuno.png)
@@ -102,6 +116,14 @@ npm run generate-md
 ![jack_nicholson.png](emojis/Movies/jack_nicholson.png)
 ![jon_snow.png](emojis/Movies/jon_snow.png)
 ![mrrobot.png](emojis/Movies/mrrobot.png)
+![saw.png](emojis/Movies/saw.png)
+
+## NyanCat
+
+![nyancat_body.png](emojis/NyanCat/nyancat_body.png)
+![nyancat_face.png](emojis/NyanCat/nyancat_face.png)
+![nyancat_rainbow.png](emojis/NyanCat/nyancat_rainbow.png)
+![nyancat_star.png](emojis/NyanCat/nyancat_star.png)
 
 ## People
 
@@ -135,19 +157,25 @@ npm run generate-md
 ![python.png](emojis/Programming/python.png)
 ![react.png](emojis/Programming/react.png)
 ![ruby.png](emojis/Programming/ruby.png)
+![rust.png](emojis/Programming/rust.png)
 ![swift.png](emojis/Programming/swift.png)
+![vim.png](emojis/Programming/vim.png)
 ![vue.png](emojis/Programming/vue.png)
 ![yarn.png](emojis/Programming/yarn.png)
 
 ## Random
 
+![100a.png](emojis/Random/100a.png)
 ![404.png](emojis/Random/404.png)
+![anarchy.png](emojis/Random/anarchy.png)
 ![censored_banana.png](emojis/Random/censored_banana.png)
 ![earl_grey.png](emojis/Random/earl_grey.png)
 ![incognito.png](emojis/Random/incognito.png)
 ![kitten.png](emojis/Random/kitten.png)
+![macos.png](emojis/Random/macos.png)
 ![parental_advisory.png](emojis/Random/parental_advisory.png)
-![saw.png](emojis/Random/saw.png)
+![perfect.png](emojis/Random/perfect.png)
+![polarbear.png](emojis/Random/polarbear.png)
 ![spam.png](emojis/Random/spam.png)
 ![unicorn.png](emojis/Random/unicorn.png)
 ![vomit.gif](emojis/Random/vomit.gif)
