@@ -42,6 +42,7 @@ npm run generate-md
 ![chip.gif](emojis/Cartoons/chip.gif)
 ![dale.gif](emojis/Cartoons/dale.gif)
 ![dora.png](emojis/Cartoons/dora.png)
+![winnie.png](emojis/Cartoons/winnie.png)
 ![woody.png](emojis/Cartoons/woody.png)
 
 ## Games
