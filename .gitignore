@@ -3,3 +3,4 @@ config.json
 downloads/*
 !downloads/.keep
 .DS_Store
+backup.zip
