@@ -138,9 +138,9 @@ npm run generate-md
 
 ## NyanCat
 
+![nyancat_rainbow.png](emojis/NyanCat/nyancat_rainbow.png)
 ![nyancat_body.png](emojis/NyanCat/nyancat_body.png)
 ![nyancat_face.png](emojis/NyanCat/nyancat_face.png)
-![nyancat_rainbow.png](emojis/NyanCat/nyancat_rainbow.png)
 ![nyancat_star.png](emojis/NyanCat/nyancat_star.png)
 
 ## People
