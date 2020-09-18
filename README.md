@@ -111,6 +111,7 @@ npm run generate-md
 ![think_up.png](emojis/Memes/think_up.png)
 ![thisisfine.png](emojis/Memes/thisisfine.png)
 ![thonking.png](emojis/Memes/thonking.png)
+![trollface.png](emojis/Memes/trollface.png)
 ![verified.png](emojis/Memes/verified.png)
 ![verifinking.png](emojis/Memes/verifinking.png)
 ![wat.jpg](emojis/Memes/wat.jpg)
@@ -138,10 +139,10 @@ npm run generate-md
 
 ## NyanCat
 
-![nyancat_rainbow.png](emojis/NyanCat/nyancat_rainbow.png)
-![nyancat_body.png](emojis/NyanCat/nyancat_body.png)
-![nyancat_face.png](emojis/NyanCat/nyancat_face.png)
-![nyancat_star.png](emojis/NyanCat/nyancat_star.png)
+![0_nyancat_rainbow.png](emojis/NyanCat/0_nyancat_rainbow.png)
+![1_nyancat_body.png](emojis/NyanCat/1_nyancat_body.png)
+![2_nyancat_face.png](emojis/NyanCat/2_nyancat_face.png)
+![3_nyancat_star.png](emojis/NyanCat/3_nyancat_star.png)
 
 ## People
 
