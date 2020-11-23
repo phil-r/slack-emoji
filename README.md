@@ -148,6 +148,7 @@ npm run generate-md
 
 ![ballmer.png](emojis/People/ballmer.png)
 ![bill.png](emojis/People/bill.png)
+![bob_ross.png](emojis/People/bob_ross.png)
 ![elon.png](emojis/People/elon.png)
 ![gauss.png](emojis/People/gauss.png)
 ![ive.png](emojis/People/ive.png)
