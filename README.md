@@ -7,6 +7,8 @@ First, install dependencies:
 npm i
 ```
 
+Second, [create a slack app](https://api.slack.com/apps), add it to your workspace, add `emoji:read` user token scope and put the `User OAuth Token` into `config.json`
+
 To download emojis from your slack team run:
 > don't forget to create config.json, see [config.example.json](config.example.json)
 
